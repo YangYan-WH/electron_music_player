@@ -1,1 +1,3 @@
 node_modules
+.DS_Store
+electron-quick-start/.DS_Store
