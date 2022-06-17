@@ -18,7 +18,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "bootstrap": "^4.3.1",
-    "electron": "^5.0.8",
+    "electron": "^15.5.5",
     "nodemon": "^1.19.1"
   },
   "dependencies": {
